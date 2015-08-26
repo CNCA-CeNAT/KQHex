@@ -1,6 +1,6 @@
 *********************************************************************
 KQHEX -- Agente jugador de Hex: exploratorio, libre de modelo, heurístico.
-			Basado en efoque heurístico para aprendizaje y toma de decisiones.
+			Basado en enfoque heurístico para aprendizaje y toma de decisiones.
 
 Por: Juan Carlos Saborío.
 Programa de Posgrado en Ciencias Cognoscitivas, UCR.
